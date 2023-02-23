@@ -91,7 +91,6 @@ def cluster_v_d(img,quantile,clsname,p_to_index,radius=3,size=64):
 def cluster_v_d_filter(img,quantile,den_thrshld,clsname,p_to_index,radius=3,size=64):
     data = img
     #size=24
-    # 权重肯定要大些
     quantile = 80
     radius = 5
     den_thrshld = 0.3
