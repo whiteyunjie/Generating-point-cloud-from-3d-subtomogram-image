@@ -4,7 +4,7 @@ A clustering based unsupervised method for generating point cloud from 3d subtom
 
 
 ### usage
-<img src=https://github.com/whiteyunjie/Generating-point-cloud-from-3d-subtomogram-image/blob/main/image/framework.jpg width=70% />
+<img src=https://github.com/whiteyunjie/Generating-point-cloud-from-3d-subtomogram-image/blob/main/image/framework.jpg width=100% />
 
 
 #### Generating point cloud data from 3d subtomogram image
